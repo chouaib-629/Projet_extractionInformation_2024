@@ -1,6 +1,3 @@
-os
 numpy
-json
-sqlite3
-opencv-python
+opencv-python-headless
 streamlit
