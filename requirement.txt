@@ -1,0 +1,6 @@
+os
+numpy
+json
+sqlite3
+opencv-python
+streamlit
